@@ -20,6 +20,6 @@ src Folder - MetaConnect.js -
 ## In MetaConnect.js you can find all these functions
 
 `connectWalletHandler` - For connecting the metamask wallet<br/>
-`AccoutChangedHandler` - Chainging account from metamask can cause this function to work<br/>
+`accoutChangedHandler` - Chainging account from metamask can cause this function to work<br/>
 `chainChangedHandler` - Chainging the chain network in the metamask can cause this function to work<br/>
 `getAccountBalance` - Get the Balance of the token/coin in your metamask wallet.
